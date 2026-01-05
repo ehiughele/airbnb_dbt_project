@@ -1,0 +1,9 @@
+
+target/
+dbt_packages/
+logs/
+profile.yml
+original_course/
+venv/
+venv/
+__pycache__/
