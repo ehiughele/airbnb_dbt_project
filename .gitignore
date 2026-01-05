@@ -2,7 +2,7 @@
 target/
 dbt_packages/
 logs/
-profile.yml
+profiles.yml
 original_course/
 venv/
 venv/
