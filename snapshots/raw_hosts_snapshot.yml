@@ -1,0 +1,8 @@
+snapshots:
+  - name: raw_hosts_snapshot
+    relation: source('airbnb', 'hosts')
+    config:
+     unique_key: id
+     updated_at: updated_at
+     strategy: timestamp
+     hard_deletes: invalidate
