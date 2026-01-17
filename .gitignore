@@ -2,8 +2,7 @@
 target/
 dbt_packages/
 logs/
-profiles.yml
 original_course/
 venv/
-venv/
 __pycache__/
+profiles.yml
