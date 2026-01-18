@@ -49,3 +49,6 @@ data_tests:
   +schema: __test_failures
 flags:
   require_generic_test_arguments_property: true
+
+vars:
+  user_name: defeault_user_for_this_project
